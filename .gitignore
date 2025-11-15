@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+*.fasta
+*.h5ad
+*.h5
